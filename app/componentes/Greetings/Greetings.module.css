@@ -42,6 +42,10 @@
     font-size: 45px;
     font-weight: 600;
 }
+.p1p2{
+    font-size: 45px;
+    font-weight: 600;
+}
 .p2{
     font-weight: 300;
     color: grey;
@@ -97,6 +101,10 @@
         font-size: 40px;
         font-weight: 600;
     }
+    .p1p2{
+        font-size: 40px;
+        font-weight: 600;
+    }
     .p2{
         font-size: 17px;
         font-weight: 300;
@@ -106,6 +114,10 @@
 @media (max-width: 835px){
 
     .p1{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .p1p2{
         font-size: 30px;
         font-weight: 600;
     }
@@ -121,6 +133,10 @@
         font-size: 25px;
         font-weight: 600;
     }
+    .p1p2{
+        font-size: 27px;
+        font-weight: 600;
+    }
     .p2{
         margin-top: 15px;
         font-size: 12px;
@@ -129,8 +145,32 @@
    }
 }
 
-@media (max-width: 350px){
+@media (max-width: 454px){
+    
+    .p1p2{
+        font-size: 29px;
+        font-weight: 600;
+    }
+}
+@media (max-width: 400px){
 
+    .p1{
+        font-size: 27px;
+        font-weight: 600;
+    }
+    .p1p2{
+        font-size: 28px;
+        font-weight: 600;
+    }
+    .p2{
+        font-size: 17px;
+        font-weight: 400;
+        color: grey;
+        margin-top: 10px;
+   }
+}
+@media (max-width: 350px){
+    
     .p1{
         font-size: 27px;
         font-weight: 600;
@@ -148,18 +188,4 @@
         gap: 40px;
         font-size: 30px;
     }
-}
-
-@media (max-width: 400px){
-
-    .p1{
-        font-size: 27px;
-        font-weight: 600;
-    }
-    .p2{
-        font-size: 15px;
-        font-weight: 400;
-        color: grey;
-        margin-top: 10px;
-   }
 }

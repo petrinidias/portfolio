@@ -14,7 +14,7 @@ export default function Greetings() {
             <div className={Styles.greetings}>
                 <div className={Styles.texts}>
                     <p className={Styles.p1}>Olá! Me chamo Gilberto Petrini.</p>
-                    <p className={Styles.p1}>Eu desenvolvo sistemas <span className={Styles.highlight1}>Web Front-End</span>.</p>
+                    <p className={Styles.p1p2}>Eu desenvolvo sistemas <span className={Styles.highlight1}>Web Front-End</span>.</p>
                     <p className={Styles.p2}>Esse é meu portfólio! Navegue e conheça meus <Link href="#projetos" className={Styles.link}>projetos</Link> e <Link href="/sobreMim" className={Styles.link}>habilidades</Link>.</p>
                 </div>
 
