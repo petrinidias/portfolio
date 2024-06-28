@@ -31,11 +31,11 @@ export default function ProjetoSobre(){
                     de <strong>cores harmoniosas</strong> são cuidadosamente integrados para garantir uma <strong>estética moderna e 
                     funcional</strong>.<br/><br/>
 
-                    <strong>*</strong>ScrollBar personalizada para quem vê o site pelo PC.<br/><br/>
-                    <strong>*</strong>Responsividade | O site se adapta a telefones, tablets e computadores.<br/><br/>
-                    <strong>*</strong>Uso de Target Blank para maior dinamicidade ao clicar em links.<br/><br/>
-                    <strong>*</strong>Uso de cores harmônicas | Visual limpo e não poluído<br/><br/>
-                    <strong>*</strong>EM BREVE | Saudação costumizada ao depender do horário do dia | Bom dia/Boa tarde/Boa noite ao invés do "Olá!"<br/><br/>
+                    <strong>*</strong> ScrollBar personalizada para quem vê o site pelo PC.<br/><br/>
+                    <strong>*</strong> Responsividade | O site se adapta a telefones, tablets e computadores.<br/><br/>
+                    <strong>*</strong> Uso de Target Blank para maior dinamicidade ao clicar em links.<br/><br/>
+                    <strong>*</strong> Uso de cores harmônicas | Visual limpo e não poluído<br/><br/>
+                    <strong>* EM BREVE</strong> | Saudação costumizada ao depender do horário do dia | Bom dia/Boa tarde/Boa noite ao invés do "Olá!"<br/><br/>
 
                     <br/><br/>Cada projeto 
                     é <strong>planejado no Figma</strong>, refletindo meu comprometimento com a execução precisa e 
