@@ -1,3 +1,7 @@
+.fix{
+    display: flex;
+    flex-direction: row;
+}
 
 .highlight1{
     color: var(--main);
