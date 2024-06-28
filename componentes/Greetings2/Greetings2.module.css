@@ -1,0 +1,118 @@
+.highlight{
+    color: var(--main);
+}
+.saudacoesimg{
+    width: 689px;
+    height: 106px;
+    margin: 150px 0 80px 0;
+}
+.principal{
+    background-color: var(--primary-color);
+    width: 100%;
+    height: 100%;
+}
+.sobremim{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.sobremimC{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}
+.ola {
+    font-size: 70px;
+    font-weight: 600;
+    margin: 160px 0 140px 0;
+    color: var(--secundary-color);
+}
+.sbhandico{
+    width: 65px;
+    height: 65px;
+}
+.sobreMimContainer{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    height: 370px;
+    gap: 100px;
+}
+.sobreMimContainer h6{
+    font-family: 'Inter';
+    font-size: 22px;
+    font-weight: 400;
+    color: var(--secundary-color);
+    width: 50%;
+}
+.sbimage{
+    width: 475px;
+    height: 342px;
+    border-radius: 20px;
+}
+.iconesTec{
+    display: flex;  
+    flex-direction: column;
+    margin: 40px 0 40px 0;
+}
+.habilidades{
+    display: flex;
+    width: 1200px;
+    height: fit-content;
+
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    color: var(--secundary-color);
+}
+.icones{
+    display: flex;
+    margin-top: 60px;
+    gap: 290px;
+}
+.html{
+    font-size: 80px;
+    color: var(--secundary-color);
+}
+.css{
+    font-size: 80px;
+    color: var(--secundary-color);
+}
+.js{
+    font-size: 80px;
+    color: var(--secundary-color);
+}
+.react{
+    font-size: 80px;
+    color: var(--secundary-color);
+}
+.certificados{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.certificados p{
+    width: 1200px;
+    height: 70px;
+    margin: 30px 0 80px 0;
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--secundary-color);
+}
+.certificadosImgs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.certificadoImg{
+    width: 1203px;
+    height: 676px;
+    border-radius: 40px;
+    border: solid 1px #00000015;
+    box-shadow:  26px 26px 40px #00000017;
+    margin-bottom: 50px;
+}
+
