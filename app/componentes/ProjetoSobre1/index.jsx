@@ -29,13 +29,19 @@ export default function ProjetoSobre(){
                     uma abordagem centrada no usuário e a criação de experiências memoráveis. Elementos como 
                     <strong> barra de rolagem personalizada</strong>, <strong>efeitos de desfoque de fundo</strong> e uso
                     de <strong>cores harmoniosas</strong> são cuidadosamente integrados para garantir uma <strong>estética moderna e 
-                    funcional</strong>.
+                    funcional</strong>.<br/><br/>
+
+                    <strong>*</strong>ScrollBar personalizada para quem vê o site pelo PC.<br/><br/>
+                    <strong>*</strong>Responsividade | O site se adapta a telefones, tablets e computadores.<br/><br/>
+                    <strong>*</strong>Uso de Target Blank para maior dinamicidade ao clicar em links.<br/><br/>
+                    <strong>*</strong>Uso de cores harmônicas | Visual limpo e não poluído<br/><br/>
+                    <strong>*</strong>EM BREVE | Saudação costumizada ao depender do horário do dia | Bom dia/Boa tarde/Boa noite ao invés do "Olá!"<br/><br/>
 
                     <br/><br/>Cada projeto 
                     é <strong>planejado no Figma</strong>, refletindo meu comprometimento com a execução precisa e 
                     eficiente de soluções que inspiram e engajam.<br/><br/>
 
-                    Meu portfólio não é apenas uma coleção de trabalhos, mas um testemunho do meu crescimento contínuo 
+                    Ele não é apenas uma coleção de trabalhos, mas um testemunho do meu crescimento contínuo 
                     como profissional e minha dedicação ao design do site. Cada projeto incluído 
                     demonstrará minha habilidade em criar experiências digitais que não só atendem, mas também antecipam 
                     as necessidades dos usuários, proporcionando soluções que são tanto funcionais quanto <strong>visualmente 
