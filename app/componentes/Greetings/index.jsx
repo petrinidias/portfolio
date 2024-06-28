@@ -1,3 +1,4 @@
+'use cliente'
 import Styles from "./Greetings.module.css";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithubSquare } from "react-icons/fa";
