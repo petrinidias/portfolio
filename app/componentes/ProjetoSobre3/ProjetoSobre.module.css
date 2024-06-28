@@ -89,6 +89,7 @@
 .projetotexto p{
     font-size: 20px;
     color: var(--secundary-color);
+    text-align: justify;
 }
 @media (max-width: 1230px){
     .titles h1{
