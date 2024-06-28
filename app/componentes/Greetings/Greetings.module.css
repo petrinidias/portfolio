@@ -1,0 +1,161 @@
+
+.highlight1{
+    color: var(--main);
+    font-weight: 600;
+}
+
+.highlightco{
+    color: var(--main);
+}
+
+.principalG{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--primary-color);
+}
+
+.greetings{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 750px;
+    width: 1200px;
+    color: var(--secundary-color);
+}
+
+.texts{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.p1{
+    font-size: 45px;
+    font-weight: 600;
+}
+.p2{
+    font-weight: 300;
+    color: grey;
+    font-size: 19px;
+}
+.clock{
+    margin-left: 5px;
+}
+
+.greetings h4 .highlight1{
+    font-weight: 500;
+}
+.da{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 80px;
+    color: var(--secundary-color);
+    font-size: 30px;   
+}
+
+.icon{
+    padding: 30px;
+    display: flex;
+    gap: 50px;
+    font-size: 35px;
+}
+.icon a{
+    color: var(--main);
+}
+.icon a:hover{
+    color: var(--secundary-color);
+    transform: translateY(-2px);
+    transition: all 0.15s ease-in-out;
+    cursor: pointer;
+}
+
+.dp{
+    color: var(--main);
+}
+
+.link{
+    text-decoration: underline;
+    color: var(--main);
+}
+.link:hover{
+    cursor: pointer;
+}
+
+@media (max-width: 990px){
+
+    .p1{
+        font-size: 40px;
+        font-weight: 600;
+    }
+    .p2{
+        font-size: 17px;
+        font-weight: 300;
+        color: grey;
+   }
+}
+@media (max-width: 835px){
+
+    .p1{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .p2{
+        font-size: 15px;
+        font-weight: 400;
+        color: grey;
+   }
+}
+@media (max-width: 638px){
+
+    .p1{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .p2{
+        margin-top: 15px;
+        font-size: 12px;
+        font-weight: 400;
+        color: grey;
+   }
+}
+
+@media (max-width: 350px){
+
+    .p1{
+        font-size: 27px;
+        font-weight: 600;
+    }
+    .p2{
+        font-size: 15px;
+        font-weight: 400;
+        color: grey;
+        margin-top: 10px;
+   }
+
+    .icon{
+        padding: 30px;
+        display: flex;
+        gap: 40px;
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 400px){
+
+    .p1{
+        font-size: 27px;
+        font-weight: 600;
+    }
+    .p2{
+        font-size: 15px;
+        font-weight: 400;
+        color: grey;
+        margin-top: 10px;
+   }
+}
