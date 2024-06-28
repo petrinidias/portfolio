@@ -26,7 +26,7 @@ export default function ProjetoSobre(){
                 <div className={styles.projetotexto}>
                     <p>
                     LearnNXperience é um projeto pessoal meu, uma biblioteca online onde os usuários podem encontrar 
-                    uma vasta gama de links para <strong>cursos gratuitos de programação em diferentes áreas</strong>. Esta plataforma 
+                    uma vasta gama de links para <strong>cursos gratuitos de programação em diferentes áreas</strong>. <br/><br/>Esta plataforma 
                     está sendo criada com o intuito de <strong>facilitar o acesso</strong> ao aprendizado de programação, oferecendo recursos 
                     educacionais de alta qualidade <strong>sem custo</strong>.<br/><br/>
                     
