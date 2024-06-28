@@ -12,7 +12,7 @@ export default function Greetings2(){
                     <img src="/saudacoes.png" className={styles.saudacoesimg}></img>
                     <div className={styles.sobreMimContainer}>
                         <h6>
-                        Presentemente, estou cursando o <strong>segundo período</strong> de <strong>Análise e Desenvolvimento de Sistemas</strong> na universidade UniCarioca. Pessoalmente, estou me aprofundando em <strong>ReactJs</strong> e em breve pretendo estudar Mobile.<br/><br/>
+                        Presentemente, estou cursando o <strong>segundo período</strong> de <strong>Análise e Desenvolvimento de Sistemas</strong> na universidade UniCarioca. Pessoalmente, estou me aprofundando em <strong>ReactJs</strong> e em breve pretendo estudar Mobile.<br/><br/><br/>
                         Atualmente, estou com <strong>18 anos</strong>, porém, meu primeiro contato com a programação foi aos 16, fazendo modificações de textura para um jogo. Desde então, soube que queria seguir carreira na área e escolhi minha faculdade com convicção.
                         </h6>
                         <img src="/ptrn.png" className={styles.sbimage}></img>
@@ -23,10 +23,10 @@ export default function Greetings2(){
                             </p>
                         </div>
                         <div className={styles.icones}>
-                            <TbHtml className={styles.html}/>
-                            <MdCss className={styles.css}/>
-                            <FaJsSquare className={styles.js}/>
-                            <FaReact className={styles.react}/>
+                            <TbHtml className={styles.icone}/>
+                            <MdCss className={styles.icone}/>
+                            <FaJsSquare className={styles.icone}/>
+                            <FaReact className={styles.icone}/>
                         </div>
                     </div>
                 </div>

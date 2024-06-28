@@ -97,3 +97,9 @@
     color: var(--secundary-color);
     cursor: pointer;
 }
+
+@media (max-width: 575px){
+    .menu{
+        padding: 0 20px;
+    }
+}
