@@ -31,15 +31,15 @@ export default function ProjetoSobre(){
                     de <strong>cores harmoniosas</strong> são cuidadosamente integrados para garantir uma <strong>estética moderna e 
                     funcional</strong>.
 
-                    Adaptei <strong>saudações dinâmicas com base fuso horário brasileiro</strong> para uma interação mais pessoal.<br/><br/>Cada projeto 
-                    é planejado no Figma, refletindo meu comprometimento com a execução precisa e 
+                    <br/><br/>Cada projeto 
+                    é <strong>planejado no Figma</strong>, refletindo meu comprometimento com a execução precisa e 
                     eficiente de soluções que inspiram e engajam.<br/><br/>
 
                     Meu portfólio não é apenas uma coleção de trabalhos, mas um testemunho do meu crescimento contínuo 
-                    como profissional e minha dedicação à inovação no campo do design digital. Cada projeto incluído 
+                    como profissional e minha dedicação ao design do site. Cada projeto incluído 
                     demonstrará minha habilidade em criar experiências digitais que não só atendem, mas também antecipam 
-                    as necessidades dos usuários, proporcionando soluções que são tanto funcionais quanto visualmente 
-                    agradáveis.
+                    as necessidades dos usuários, proporcionando soluções que são tanto funcionais quanto <strong>visualmente 
+                    agradáveis</strong>.
                     </p>
                 </div>
             </div>
