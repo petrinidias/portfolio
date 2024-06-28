@@ -5,20 +5,34 @@ import { FaWhatsappSquare } from "react-icons/fa";
 import { FaFile } from "react-icons/fa";
 import { MdOutlineKeyboardDoubleArrowDown } from "react-icons/md";
 import Link from "next/link"
+import React, { useEffect, useState } from 'react';
 
 export default function Greetings() {
 
-    let hoje = new Date();
-    let horas = hoje.getHours();
-    let saudacao = ""
+    const GreetingComponent = () => {
+        const [saudacao, setSaudacao] = useState('');
 
-    if (horas >= 5 && horas <= 11) {
-        saudacao = "Bom dia";
-    } else if (horas >= 12 && horas <= 17) {
-        saudacao = "Boa tarde";
-    } else {
-        saudacao = "Boa noite";
-    }
+        useEffect(() => {
+        const determineGreeting = () => {
+        const date = new Date();
+        const hour = date.getHours();
+      
+        if (hour >= 18 || hour < 4) {
+          setSaudacao('Boa noite');
+        } else if (hour >= 4 && hour < 12) {
+          setSaudacao('Bom dia');
+        } else if (hour >= 12 && hour < 18) {
+          setSaudacao('Boa tarde');
+        }
+    };
+
+    determineGreeting();
+
+    // Opcional: Atualiza a saudação a cada hora
+    const interval = setInterval(determineGreeting, 3600000);
+
+    return () => clearInterval(interval);
+  })}
 
     return(
         <div className={Styles.principalG}>
