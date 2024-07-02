@@ -16,6 +16,7 @@
 }
 .wait{
     font-size: 24px;
+    margin-left: 7px;
 }
 .projetosmain{
     display: flex;
@@ -136,6 +137,10 @@
 
     .downarrow{
         font-size: 30px;
+    }
+    .wait{
+        font-size: 15px;
+        margin-left: 10px;
     }
 
 
