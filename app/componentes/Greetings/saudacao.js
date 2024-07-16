@@ -8,10 +8,13 @@ export default function Saudacao() {
 
   if (horas >=6 && horas<12){
     saudacao = "Bom dia"
+    console.log(".")
   } else if(horas >=12 && horas<18) {
     saudacao = "Boa tarde"
+    console.log(".")
   } else{
     saudacao = "Boa noite"
+    console.log(".")
   }
 
     return (

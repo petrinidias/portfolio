@@ -22,11 +22,11 @@ export default function Learnxperience() {
           de <strong>cores harmoniosas</strong> são cuidadosamente integrados para garantir uma <strong>estética moderna e 
           funcional</strong>.<br/><br/>
 
-          <FaCircle className={styles.circle}/> ScrollBar personalizada para quem vê o site pelo PC.<br/><br/>
-          <FaCircle className={styles.circle}/> Responsividade | O site se adapta a telefones, tablets e computadores.<br/><br/>
-          <FaCircle className={styles.circle}/> Uso de Target Blank para maior dinamicidade ao clicar em links.<br/><br/>
-          <FaCircle className={styles.circle}/> Uso de cores harmônicas | Visual limpo e não poluído<br/><br/>
-          <FaCircle className={styles.circle}/> <strong>EM BREVE</strong> | Saudação costumizada ao depender do horário do dia | Bom dia/Boa tarde/Boa noite ao invés do "Olá!"<br/><br/>
+          <FaCircle className={styles.circle}/> <strong>ScrollBar personalizada</strong> para quem utiliza navegadores web.<br/><br/>
+          <FaCircle className={styles.circle}/> <strong>Responsividade</strong> | O site se adapta a telefones, tablets e computadores.<br/><br/>
+          <FaCircle className={styles.circle}/> Uso de <a target="_blank" href="https://www.freecodecamp.org/portuguese/news/o-atributo-target-na-tag-a-do-html-explicado/#:~:text=Um%20atributo%20target%20com%20o%20valor%20de%20_blank,documento%20vinculado%20em%20uma%20nova%20janela%20ou%20aba."><strong>Target Blank</strong></a> para maior dinamicidade ao clicar em links.<br/><br/>
+          <FaCircle className={styles.circle}/> Uso de <strong>cores harmônicas</strong> | Visual limpo e não poluído.<br/><br/>
+          <FaCircle className={styles.circle}/> <strike><strong>EM BREVE</strong> | Saudação costumizada ao depender do horário do dia | Bom dia/Boa tarde/Boa noite ao invés do "Olá!".</strike><br/><br/>
 
           <br/><br/>Cada projeto 
           é <strong>planejado no Figma</strong>, refletindo meu comprometimento com a execução precisa e 
