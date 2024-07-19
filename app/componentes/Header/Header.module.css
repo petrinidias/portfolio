@@ -41,6 +41,7 @@
     border: 1px solid rgba(194, 194, 194, 0.507);
     text-decoration: none;
     color: white;
+    transition: all 0.2s ease-in-out;
 }
 
 .i:hover{
@@ -59,6 +60,7 @@
     text-decoration: none;
     color: var(--secundary-color);
     background-color: var(--primary-color);
+    transition: all 0.2s ease-in-out;
 }
 
 .s:hover{
