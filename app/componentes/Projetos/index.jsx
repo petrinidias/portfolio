@@ -23,7 +23,7 @@ export default function Projetos() {
                         descricao={<span>Listei alguns pontos <strong>muito interessantes</strong> do meu portfólio. Vale a pena dar uma olhada! 😉</span>}
                         />
                         <ProjetosProps
-                        href="/taskpay"
+                        href=""
                         imagem="./anneau.jpg"
                         titulo="AnneauEtoile - Em breve"
                         descricao={<span>Simulação onde irei explorar o <strong>uso de menus</strong>, <strong>sistema de busca</strong>, <strong>busca com filtros</strong>, entre outros.

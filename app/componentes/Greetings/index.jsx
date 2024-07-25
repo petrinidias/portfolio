@@ -6,7 +6,6 @@ import { FaWhatsappSquare } from "react-icons/fa";
 import { FaFile } from "react-icons/fa";
 import { MdOutlineKeyboardDoubleArrowDown } from "react-icons/md";
 import Link from "next/link"
-import { Analytics } from "@vercel/analytics/react"
 import Saudacao from "./saudacao"
 
 export default function Greetings() {
