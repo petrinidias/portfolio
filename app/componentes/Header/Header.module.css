@@ -60,7 +60,6 @@
     text-decoration: none;
     color: var(--secundary-color);
     background-color: var(--primary-color);
-    transition: all 0.2s ease-in-out;
 }
 
 .s:hover{

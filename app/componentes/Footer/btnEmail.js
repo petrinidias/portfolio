@@ -17,7 +17,7 @@ const CopyEmailButton = () => {
           position: "center", // `left`, `center` or `right`
           stopOnFocus: false, // Prevents dismissing of toast on hover
           style: {
-            background: "var(--main)", color: "var(--primary-color)",
+            background: "var(--main)", color: "white",
           },
           onClick: function(){} // Callback after click
         }).showToast();

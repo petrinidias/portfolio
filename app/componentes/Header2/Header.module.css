@@ -60,12 +60,10 @@
     text-decoration: none;
     color: white;
     background-color: var(--main);
-    transition: all 0.2s ease-in-out;
 }
 
 .s:hover{
     border: 1px solid var(--main);
-    transition: all 0.2s ease-in-out;
 }
 
 .ulmenu{
