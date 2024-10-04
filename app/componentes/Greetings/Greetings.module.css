@@ -72,9 +72,11 @@
     display: flex;
     gap: 50px;
     font-size: 35px;
+    transition: all 0.15s ease-in-out;
 }
 .icon a{
     color: var(--main);
+    transition: all 0.15s ease-in-out;
 }
 .icon a:hover{
     color: var(--secundary-color);
