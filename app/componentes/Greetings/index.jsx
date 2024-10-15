@@ -23,7 +23,7 @@ export default function Greetings() {
                     <a href="https://www.linkedin.com/in/petrinidias/" target="_blank"><FaLinkedin /></a>
                     <a href="https://github.com/petrinidias" target="_blank"><FaGithubSquare /></a>
                     <a href="https://api.whatsapp.com/send/?phone=5521999475386&text&type=phone_number&app_absent=0" target="_blank"><FaWhatsappSquare /></a>
-                    <a href="/cv.pdf" target="_blank"><FaFile/></a>
+                    <a href="/curriculo.pdf" target="_blank"><FaFile/></a>
                 </div>
 
                 <MdOutlineKeyboardDoubleArrowDown className={Styles.da}/>
