@@ -37,7 +37,6 @@
 .projetoimg{
     width: 530px;
     height: 289px;
-    background-color: black;
     border-radius: 15px;
 }
 .projetoimg img{
@@ -49,7 +48,7 @@
     transition: all 0.3s ease-in-out;
 }
 .imghover:hover{
-    opacity: 70%;
+    opacity: 90%;
     transition: all 0.3s ease-in-out;
 }
 .projetodesc{
@@ -202,7 +201,6 @@
     .projetoimg{
         width: 371px;
         height: 202px;
-        background-color: black;
         border-radius: 15px;
     }
 
@@ -307,7 +305,6 @@
     .projetoimg{
         width: 315px;
         height: 178px;
-        background-color: black;
         border-radius: 15px;
     }
 

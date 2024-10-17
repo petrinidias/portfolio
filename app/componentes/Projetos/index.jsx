@@ -17,6 +17,12 @@ export default function Projetos() {
 
                     <div className={Styles.projetos}>                       
                         <ProjetosProps
+                        href="/medeiros"
+                        imagem="./medeiros.png"
+                        titulo="Medeiros Odontologia"
+                        descricao={<span><strong>Aplicação web</strong> para auxiliar a comunicação entre dentistas e clientes via <strong>manipulação de mensagens</strong> via whatsapp.</span>}
+                        />
+                        <ProjetosProps
                         href="/portfolio"
                         imagem="./portfolioimg.jpg"
                         titulo="Meu portfólio!"
