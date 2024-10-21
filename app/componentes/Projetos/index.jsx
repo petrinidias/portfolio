@@ -20,7 +20,7 @@ export default function Projetos() {
                         href="/medeiros"
                         imagem="./medeiros.png"
                         titulo="Medeiros Odontologia"
-                        descricao={<span><strong>Aplicação web</strong> para auxiliar a comunicação entre dentistas e clientes via <strong>manipulação de mensagens</strong> via whatsapp.</span>}
+                        descricao={<span><strong>Aplicação web</strong> para auxiliar a comunicação entre dentistas e clientes via <strong>manipulação de mensagens</strong> pelo whatsapp.</span>}
                         />
                         <ProjetosProps
                         href="/portfolio"
